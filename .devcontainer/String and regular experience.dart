@@ -1,6 +1,14 @@
 //Strings and regular expression,https://dart.dev/guides/libraries/library-tour#strings-and-regular-expressions
 
 void main(List<String> args) {
+  fun01();
+  fun02();
+  fun03();
+  fun04();
+  fun05();
+  fun06();
+  fun07();
+  fun08();
   print('done.');
 }
 
